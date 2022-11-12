@@ -9,7 +9,7 @@ function ExpenseItem() {
 		<div className="expense-item">
 			
 			{/* Function Date is an object not a string, 
-			so it had to be strigify by method".toISOString*/}
+			so it had to be strigify by method".toISOString()*/}
 
 			<div>{expenseDate.toISOString()}</div>
 			<div className='expense-item__description'>
