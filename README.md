@@ -1,3 +1,9 @@
+This repo is made by with ongoin tutorial.
+The rope for this tutorial might be found under this adress: 'https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components'
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
